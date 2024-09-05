@@ -3,12 +3,12 @@ import time
 import streamlit as st
 
 # 코드스니펫 - 제목
-st.title('나만의 제품 홍보 생성기')
+st.title('나만의 제품 홍보 생성기🎈')
 
 # 코드스니펫 - 입력
 keyword = st.text_input("키워드를 입력하세요.")
 
-if st.button('생성하기'):
+if st.button('생성하기😀'):
   st.write('나만의 제품 홍보 포스터 완성!')
   with st.spinner('Wait for it...'):
 
